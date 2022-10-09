@@ -1,8 +1,8 @@
 # Lofi Wear
 ## WHY?
-* Z důvodu větší tržby a jednoduššího výběru produktů z domova.
+Z důvodu větší tržby a jednoduššího výběru produktů z domova.
 ## WHAT?
-* Zdigitalizování existující kamenné prodejny second hand. Možnost zakoupení produktů online.
+Zdigitalizování existující kamenné prodejny second hand. Možnost zakoupení produktů online.
 ## WHO?
 * Admin
 * Prodejce
