@@ -25,6 +25,7 @@ UC2: Parametry</br>
 •	Primary actor: User, Reseller, Administrator</br>
 •	Stakeholders and Interests: Administrator</br>
 •	Precondition: Uživatel musí mít založený účet v databázi. Následně musí zadat správné jméno a heslo.</br>
+![image](https://user-images.githubusercontent.com/53978671/205498739-3f8ea0fa-019a-4569-b7f4-e7afa5dccd2a.png)
 
 UC3: Parametry</br>
 •	Název: Add products</br>
