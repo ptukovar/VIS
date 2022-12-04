@@ -43,3 +43,6 @@ UC4: Parametry</br>
 •	Precondition: Musí být funkční databáze</br>
 ![image](https://user-images.githubusercontent.com/53978671/205499408-10b577ec-c94f-4882-a5a7-d86a2a477938.png)
 
+# Návrh domenového modelu
+![image](https://user-images.githubusercontent.com/53978671/205500388-7b2d1d37-145b-4e62-9885-e3537462be98.png)
+
