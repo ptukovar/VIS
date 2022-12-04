@@ -47,22 +47,22 @@ UC4: Parametry</br>
 ![image](https://user-images.githubusercontent.com/53978671/205500388-7b2d1d37-145b-4e62-9885-e3537462be98.png)
 
 # Velikosti entit a jejich množství
-• Uživatel
-• Velikost záznamu: 2 kB
-• Počet se zvýši po úspěšné registraci
-• Celkem potřebného prostoru zhruba: 400 kB – 20 MB
+• Uživatel</br>
+• Velikost záznamu: 2 kB</br>
+• Počet se zvýši po úspěšné registraci</br>
+• Celkem potřebného prostoru zhruba: 400 kB – 20 MB</br>
 
-• Objednávka
-• Velikost záznamu: 1 kB
-• Počet se zvýši po úspěšném objednání produktů
-• Celkem potřebného prostoru zhruba: 200 kB – 10 MB
+• Objednávka</br>
+• Velikost záznamu: 1 kB</br>
+• Počet se zvýši po úspěšném objednání produktů</br>
+• Celkem potřebného prostoru zhruba: 200 kB – 10 MB</br>
 
-• Produkt
-• Velikost záznamu: 1 MB
-• Počet se zvýši po přidání nového produktu
-• Celkem potřebného prostoru zhruba: 1 MB – 200 MB
+• Produkt</br>
+• Velikost záznamu: 1 MB</br>
+• Počet se zvýši po přidání nového produktu</br>
+• Celkem potřebného prostoru zhruba: 1 MB – 200 MB</br>
 
-• Platba
-• Velikost záznamu: 3 kB
-• Počet se zvýši po provedení platby
-• Celkem potřebného prostoru zhruba: 300 kB – 15 MB
+• Platba</br>
+• Velikost záznamu: 3 kB</br>
+• Počet se zvýši po provedení platby</br>
+• Celkem potřebného prostoru zhruba: 300 kB – 15 MB</br>
