@@ -25,7 +25,7 @@ UC2: Parametry</br>
 •	Primary actor: User, Reseller, Administrator</br>
 •	Stakeholders and Interests: Administrator</br>
 •	Precondition: Uživatel musí mít založený účet v databázi. Následně musí zadat správné jméno a heslo.</br>
-![image](https://user-images.githubusercontent.com/53978671/205498739-3f8ea0fa-019a-4569-b7f4-e7afa5dccd2a.png)
+![image](https://user-images.githubusercontent.com/53978671/205499372-663e8d4b-988a-43d4-905b-43180ba44c6d.png)
 
 UC3: Parametry</br>
 •	Název: Add products</br>
@@ -33,6 +33,7 @@ UC3: Parametry</br>
 •	Primary actor: Reseller</br>
 •	Stakeholders and Interests: Administrator</br>
 •	Precondition: Musí být funkční databáze a uživatel musí být alespoň reseller.</br>
+![image](https://user-images.githubusercontent.com/53978671/205499400-bc2cfd53-43e0-4731-944b-0e8876463968.png)
 
 UC4: Parametry</br>
 •	Název: Search products </br>
@@ -40,3 +41,5 @@ UC4: Parametry</br>
 •	Primary actor: Buyer</br>
 •	Stakeholders and Interests: Reseller, Administrator</br>
 •	Precondition: Musí být funkční databáze</br>
+![image](https://user-images.githubusercontent.com/53978671/205499408-10b577ec-c94f-4882-a5a7-d86a2a477938.png)
+
