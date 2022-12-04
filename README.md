@@ -66,3 +66,6 @@ UC4: Parametry</br>
 • Velikost záznamu: 3 kB</br>
 • Počet se zvýši po provedení platby</br>
 • Celkem potřebného prostoru zhruba: 300 kB – 15 MB</br>
+
+
+![map](https://user-images.githubusercontent.com/53978671/205502051-4e3f277a-3024-4040-97c0-a48236a08d21.png)
