@@ -46,3 +46,23 @@ UC4: Parametry</br>
 # Návrh domenového modelu
 ![image](https://user-images.githubusercontent.com/53978671/205500388-7b2d1d37-145b-4e62-9885-e3537462be98.png)
 
+# Velikosti entit a jejich množství
+• Uživatel
+• Velikost záznamu: 2 kB
+• Počet se zvýši po úspěšné registraci
+• Celkem potřebného prostoru zhruba: 400 kB – 20 MB
+
+• Objednávka
+• Velikost záznamu: 1 kB
+• Počet se zvýši po úspěšném objednání produktů
+• Celkem potřebného prostoru zhruba: 200 kB – 10 MB
+
+• Produkt
+• Velikost záznamu: 1 MB
+• Počet se zvýši po přidání nového produktu
+• Celkem potřebného prostoru zhruba: 1 MB – 200 MB
+
+• Platba
+• Velikost záznamu: 3 kB
+• Počet se zvýši po provedení platby
+• Celkem potřebného prostoru zhruba: 300 kB – 15 MB
