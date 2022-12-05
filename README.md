@@ -72,5 +72,5 @@ UC4: Parametry</br>
 
 
 # Sekvenční diagram
-![image](https://user-images.githubusercontent.com/53978671/205595912-085e4375-d9cc-498b-97ba-95e61cd61a23.png)
+![image](https://user-images.githubusercontent.com/53978671/205596770-b98a8571-782a-40fc-a69e-34e45e7f9af5.png)
 
