@@ -74,3 +74,6 @@ UC4: Parametry</br>
 # Sekvenční diagram
 ![image](https://user-images.githubusercontent.com/53978671/205596770-b98a8571-782a-40fc-a69e-34e45e7f9af5.png)
 
+# Diagram komponent
+![image](https://user-images.githubusercontent.com/53978671/205696420-e65cfe56-85b9-4075-83a8-e23055c1da7e.png)
+
