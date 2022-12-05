@@ -69,3 +69,8 @@ UC4: Parametry</br>
 
 # Wireframe
 ![map](https://user-images.githubusercontent.com/53978671/205502051-4e3f277a-3024-4040-97c0-a48236a08d21.png)
+
+
+# Sekvenční diagram
+![image](https://user-images.githubusercontent.com/53978671/205595696-7fee663b-2234-4b30-b699-6d19a65067c2.png)
+
