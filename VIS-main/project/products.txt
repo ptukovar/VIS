@@ -1,0 +1,9 @@
+1;Nike;Shirt;M;5
+3;Gucci;Jacket;L;3
+4;Husqu;Skirt;M;1
+5;GymBeam;Jacket;L;8
+6;LuiWi;Socks;S;4
+7;Nike;T-shirt;L;1
+8;Adidas;Skirt;S;1
+9;Gucci;Jacket;L;7
+10;4;4;4;4
